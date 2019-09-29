@@ -22,7 +22,7 @@
     <VCProjectVersion>16.0</VCProjectVersion>
     <ProjectGuid>{DAC4AA7D-430F-4A9F-A58D-3BCCA6F6C47C}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>CISP3</RootNamespace>
+    <RootNamespace>CISP4</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -151,7 +151,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="CISP 3.cpp" />
+    <ClCompile Include="CISP 4.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
