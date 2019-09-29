@@ -1,5 +1,6 @@
 //Programming Challenge 9
 //This program plays a coin game with the user
+//https://github.com/Mary-Fisher/oof
 #include <iostream>
 #include <iomanip>
 using namespace std;
